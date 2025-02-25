@@ -1,0 +1,17 @@
+pandas
+jira
+tabulate
+ipython
+whiptail-dialogs
+faker
+pure-python-adb
+Pillow
+numpy
+nnfs
+matplotlib
+pygame
+luhn
+sqlalchemy
+jupyter
+tensorflow
+matplotlib

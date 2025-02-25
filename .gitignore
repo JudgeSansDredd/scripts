@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+jirasettings.py
+rpgrbsettings.py
+.cache
+screencap.png
+*.sqlite
